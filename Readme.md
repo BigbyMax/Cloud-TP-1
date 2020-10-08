@@ -72,7 +72,7 @@ A l'aide de la commande utilisée dans la question précédente, retrouvez la tr
 
 > **Indice**: Cherchez dans la documentation de la commande précédente pour trouver des idées de commandes.
 
-> ⚠️  **ANSWER**: Créez une issue s'intitulant `1.5` ayant pour contenu **uniquement la commande** que vous avez effectué pour retrouver votre mot de passe perdu.
+> ⚠️  **ANSWER**: Créez une issue s'intitulant `1.5` ayant pour contenu **uniquement la commande** que vous avez effectué pour retrouver Ginny.
 
 ### 1.6 : Listez les branches
 Listez **toutes** les branches présentes dans le repository.
