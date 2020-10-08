@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
-* group_id:
+* first_name: Alice
+* last_name: Borie
+* group_id: 1A
