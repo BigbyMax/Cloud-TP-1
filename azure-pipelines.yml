@@ -5,6 +5,8 @@
 
 trigger:
 - master
+- develop
+- feature/aborie
 
 steps:
 - task: Maven@3
