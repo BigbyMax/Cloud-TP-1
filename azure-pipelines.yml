@@ -4,9 +4,11 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
 trigger:
-- master
-- develop
-- feature/*
+
+  - master
+  - develop
+  - strange
+  - feature/*
 
 steps:
 - task: Maven@3
