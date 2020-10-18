@@ -11,6 +11,7 @@ trigger:
 
 steps:
 - task: Maven@3
+  displayName: "blablabla"
   inputs:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
