@@ -23,3 +23,8 @@ steps:
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
   
+- task: Docker@2
+  inputs:
+    repository: 'myapplication'
+    command: 'build'
+    Dockerfile: '**/Dockerfile'
