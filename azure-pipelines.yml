@@ -24,6 +24,7 @@ steps:
     goals: 'package'
   
 - task: Docker@2
+  displayName: On passe à Docker
   inputs:
     repository: 'myapplication'
     command: 'build'
