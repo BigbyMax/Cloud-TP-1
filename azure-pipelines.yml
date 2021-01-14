@@ -7,11 +7,12 @@ trigger:
   - master
   - develop
   - strange
+  - maxbranch
   - feature/*
 
 steps:
 - task: Maven@3
-  displayName: "blablabla"
+  displayName: "Exécution"
   inputs:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
